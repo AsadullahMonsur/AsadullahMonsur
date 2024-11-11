@@ -1,7 +1,10 @@
 ## Peace Befalls Upon You 👋
 
-<!--
-** I develop all sorts java applications in desktop, android & web platforms -->
+
+- I develop all sorts Java applications in desktop, android & web platforms.
+
+-  Preference:  
+   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_logo_icon_167735.png" title="Ubuntu" alt="Ubuntu" width="25" height="25"/>&nbsp;
 
 - ✨ Self-learning : 3D Modeling | Blender
 - ✨ Self-learning : SVG Designer | Inkscape
@@ -11,14 +14,17 @@
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="25" height="25"/>&nbsp;
-  <img src="https://www.thymeleaf.org/images/thymeleaf.png" title="Spring" alt="Spring" width="25" height="25"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="25" height="25"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="25" height="25"/>&nbsp;
+  <img src="https://www.thymeleaf.org/images/thymeleaf.png" title="Thymeleaf" alt="Thymeleaf" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS3" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="25" height="25"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="Androidstudio" width="28" height="28"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="23" height="23"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="28" height="28"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="Vscode" width="23" height="23"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="Podman" alt="Podman" width="28" height="28"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp; 
+  <img src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png" title="SceneBuilder" alt="SceneBuilder" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp; 
 </div><br>
 
