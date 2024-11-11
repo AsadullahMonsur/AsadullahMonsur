@@ -3,8 +3,7 @@
 
 - I develop all sorts Java applications in desktop, android & web platforms.
 
--  Preference:  
-   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_logo_icon_167735.png" title="Ubuntu" alt="Ubuntu" width="25" height="25"/>&nbsp;
+-  Preference:  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_logo_icon_167735.png" title="Ubuntu" alt="Ubuntu" width="25" height="25"/>&nbsp;
 
 - ✨ Self-learning : 3D Modeling | Blender
 - ✨ Self-learning : SVG Designer | Inkscape
