@@ -10,25 +10,15 @@
 ##### 🛠️ Languages, Framework, Library & Tools :
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="25" height="25"/>&nbsp;
-
- 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="25" height="25"/>&nbsp;
-  
+  <img src="https://www.thymeleaf.org/images/thymeleaf.png" title="Spring" alt="Spring" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="25" height="25"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;
-  
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="25" height="25"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="25" height="25"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="Androidstudio" width="28" height="28"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="23" height="23"/>&nbsp; 
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp; 
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp; 
 </div><br>
 
