@@ -24,7 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp; 
   <img src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png" title="SceneBuilder" alt="SceneBuilder" width="25" height="25"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="25" height="25"/>&nbsp; 
 </div><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadullahMonsur&layout=compact&bg_color=00000000&title_color=0969DA&border_color=0969DA&icon_color=0969DA&text_color=00000&card_width=600)
